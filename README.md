@@ -12,7 +12,6 @@
 
     python train.py conf/train.json
 
-***Detail configurations and explanations see [Configuration](readme/Configuration.md).***
 
 The training info will be outputted in standard output and log.logger\_file.
 
