@@ -1,0 +1,95 @@
+{"doc_label": ["Exosome", "Mitochondrion", "Circulating", "Nucleus"], "doc_token": ["GG", "GG", "GG", "GG", "GG", "GG", "GC", "CA", "AG", "GG", "GA", "AG", "GG", "GG", "GG", "GC", "CU", "UC", "CA", "AG", "GG", "GG"]}
+{"doc_label": ["Circulating"], "doc_token": ["AC", "CU", "UG", "GG", "GA", "AC", "CU", "UU", "UG", "GG", "GA", "AG", "GU", "UC", "CA", "AG", "GG", "GA"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Mitochondrion", "Microvesicle", "Circulating", "Nucleus"], "doc_token": ["UU", "UC", "CA", "AA", "AG", "GU", "UA", "AA", "AU", "UU", "UC", "CA", "AG", "GG", "GA", "AU", "UA", "AG", "GG", "GU"]}
+{"doc_label": ["Exosome"], "doc_token": ["UG", "GC", "CC", "CC", "CU", "UA", "AA", "AA", "AU", "UG", "GC", "CC", "CC", "CC", "CU", "UU", "UC", "CU", "UG", "GG", "GC"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Mitochondrion", "Microvesicle", "Nucleus"], "doc_token": ["AC", "CA", "AG", "GG", "GU", "UG", "GA", "AG", "GG", "GU", "UU", "UC", "CU", "UU", "UG", "GG", "GG", "GA", "AG", "GC", "CC"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Microvesicle", "Circulating", "Nucleus"], "doc_token": ["UC", "CU", "UA", "AG", "GU", "UA", "AA", "AG", "GA", "AG", "GU", "UG", "GG", "GC", "CA", "AG", "GU", "UC", "CG", "GA"]}
+{"doc_label": ["Circulating"], "doc_token": ["CA", "AG", "GU", "UU", "UG", "GG", "GG", "GU", "UC", "CU", "UA", "AG", "GG", "GG", "GG", "GU", "UC", "CA", "AG", "GG", "GA"]}
+{"doc_label": ["Mitochondrion", "Circulating"], "doc_token": ["CG", "GG", "GA", "AU", "UG", "GA", "AG", "GC", "CA", "AA", "AA", "AG", "GA", "AA", "AA", "AG", "GU", "UG", "GG", "GU", "UU"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Mitochondrion", "Microvesicle", "Circulating", "Nucleus"], "doc_token": ["AC", "CA", "AG", "GU", "UA", "AG", "GU", "UC", "CU", "UG", "GC", "CA", "AC", "CA", "AU", "UU", "UG", "GG", "GU", "UU", "UA"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Mitochondrion", "Microvesicle", "Circulating", "Nucleus"], "doc_token": ["UA", "AA", "AA", "AG", "GU", "UG", "GC", "CU", "UU", "UA", "AU", "UA", "AG", "GU", "UG", "GC", "CA", "AG", "GG", "GU", "UA", "AG"]}
+{"doc_label": ["Exosome", "Mitochondrion", "Microvesicle", "Circulating"], "doc_token": ["CU", "UU", "UU", "UC", "CA", "AG", "GU", "UC", "CG", "GG", "GA", "AU", "UG", "GU", "UU", "UU", "UA", "AC", "CA", "AG", "GC"]}
+{"doc_label": ["Exosome", "Mitochondrion", "Circulating"], "doc_token": ["UA", "AC", "CG", "GG", "GU", "UG", "GA", "AG", "GC", "CC", "CU", "UG", "GU", "UC", "CA", "AU", "UU", "UA", "AU", "UU", "UC"]}
+{"doc_label": ["Exosome"], "doc_token": ["AA", "AU", "UC", "CA", "AU", "UG", "GU", "UG", "GC", "CA", "AG", "GU", "UG", "GC", "CC", "CA", "AA", "AU", "UA", "AU", "UG"]}
+{"doc_label": ["Circulating"], "doc_token": ["CU", "UG", "GA", "AA", "AU", "UA", "AG", "GC", "CU", "UG", "GG", "GG", "GA", "AC", "CU", "UA", "AC", "CA", "AG", "GG", "GU"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Mitochondrion", "Nucleus"], "doc_token": ["UU", "UC", "CA", "AA", "AC", "CG", "GG", "GG", "GU", "UA", "AU", "UU", "UU", "UA", "AU", "UU", "UG", "GA", "AG", "GC", "CA"]}
+{"doc_label": ["Exosome"], "doc_token": ["UG", "GA", "AG", "GG", "GC", "CA", "AG", "GU", "UA", "AG", "GA", "AU", "UU", "UG", "GA", "AA", "AU"]}
+{"doc_label": ["Exosome", "Nucleus"], "doc_token": ["UU", "UA", "AU", "UU", "UG", "GC", "CU", "UU", "UA", "AA", "AG", "GA", "AA", "AU", "UA", "AC", "CG", "GC", "CG", "GU", "UA", "AG"]}
+{"doc_label": ["Mitochondrion"], "doc_token": ["GA", "AU", "UG", "GC", "CG", "GC", "CC", "CG", "GC", "CC", "CC", "CA", "AC", "CU", "UG", "GC", "CC", "CC", "CC", "CG", "GC", "CG", "GC"]}
+{"doc_label": ["Exosome", "Circulating"], "doc_token": ["CA", "AA", "AA", "AG", "GA", "AG", "GG", "GA", "AA", "AG", "GG", "GU", "UC", "CC", "CC", "CA", "AU", "UU", "UA", "AC"]}
+{"doc_label": ["Exosome", "Mitochondrion"], "doc_token": ["AC", "CU", "UC", "CU", "UU", "UU", "UC", "CC", "CC", "CU", "UG", "GU", "UU", "UG", "GC", "CA", "AC", "CU", "UA", "AC"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Mitochondrion", "Microvesicle", "Nucleus"], "doc_token": ["UA", "AA", "AG", "GG", "GU", "UG", "GC", "CA", "AU", "UC", "CU", "UA", "AG", "GU", "UG", "GC", "CA", "AG", "GU", "UU", "UA", "AG"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Nucleus"], "doc_token": ["AA", "AA", "AA", "AA", "AC", "CU", "UG", "GA", "AG", "GA", "AC", "CU", "UA", "AC", "CU", "UU", "UU", "UU", "UG", "GC", "CA"]}
+{"doc_label": ["Exosome", "Mitochondrion", "Circulating"], "doc_token": ["AA", "AU", "UA", "AU", "UA", "AA", "AC", "CA", "AC", "CA", "AG", "GA", "AU", "UG", "GG", "GC", "CC", "CU", "UG", "GU"]}
+{"doc_label": ["Exosome"], "doc_token": ["UC", "CU", "UC", "CC", "CC", "CU", "UU", "UC", "CC", "CU", "UG", "GC", "CC", "CC", "CU", "UG", "GG", "GC", "CU", "UA", "AG"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Mitochondrion", "Nucleus"], "doc_token": ["UU", "UA", "AC", "CA", "AG", "GU", "UU", "UG", "GU", "UU", "UC", "CA", "AA", "AC", "CC", "CA", "AG", "GU", "UU", "UA", "AC", "CU"]}
+{"doc_label": ["Exosome", "Circulating"], "doc_token": ["GG", "GC", "CU", "UA", "AC", "CA", "AA", "AC", "CA", "AC", "CA", "AG", "GG", "GA", "AC", "CC", "CC", "CG", "GG", "GG", "GC"]}
+{"doc_label": ["Exosome"], "doc_token": ["UU", "UU", "UA", "AA", "AC", "CA", "AU", "UG", "GG", "GG", "GG", "GG", "GU", "UA", "AC", "CC", "CU", "UG", "GC", "CU", "UG"]}
+{"doc_label": ["Microvesicle"], "doc_token": ["CG", "GG", "GG", "GG", "GC", "CG", "GG", "GC", "CA", "AG", "GG", "GG", "GG", "GC", "CC", "CU", "UC"]}
+{"doc_label": ["Exosome", "Mitochondrion", "Microvesicle", "Circulating", "Nucleus"], "doc_token": ["AG", "GG", "GC", "CG", "GG", "GG", "GG", "GC", "CG", "GC", "CC", "CG", "GC", "CG", "GG", "GG", "GA", "AC", "CC", "CG", "GC"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Mitochondrion", "Microvesicle", "Circulating", "Nucleus"], "doc_token": ["UG", "GA", "AG", "GG", "GU", "UA", "AG", "GU", "UA", "AG", "GG", "GU", "UU", "UG", "GU", "UA", "AU", "UA", "AG", "GU", "UU"]}
+{"doc_label": ["Cytoplasm", "Nucleus"], "doc_token": ["UA", "AG", "GU", "UA", "AC", "CU", "UG", "GU", "UG", "GC", "CA", "AU", "UA", "AU", "UC", "CA", "AU", "UC", "CU", "UA", "AU"]}
+{"doc_label": ["Exosome"], "doc_token": ["AA", "AA", "AG", "GU", "UG", "GC", "CU", "UU", "UC", "CC", "CU", "UU", "UU", "UU", "UA", "AG", "GA", "AG", "GG", "GG"]}
+{"doc_label": ["Nucleus"], "doc_token": ["CG", "GG", "GG", "GG", "GA", "AG", "GA", "AG", "GA", "AA", "AC", "CG", "GC", "CA", "AG", "GU", "UG", "GA", "AC", "CG", "GU"]}
+{"doc_label": ["Exosome"], "doc_token": ["GG", "GG", "GA", "AG", "GA", "AA", "AG", "GG", "GG", "GU", "UC", "CG", "GG", "GG", "GG", "GC"]}
+{"doc_label": ["Exosome"], "doc_token": ["AA", "AA", "AA", "AU", "UG", "GA", "AA", "AA", "AU", "UG", "GA", "AG", "GC", "CC", "CC", "CA", "AG", "GC", "CC", "CC", "CA"]}
+{"doc_label": ["Circulating", "Nucleus"], "doc_token": ["AA", "AA", "AA", "AG", "GU", "UA", "AC", "CU", "UU", "UG", "GC", "CG", "GG", "GA", "AU", "UU", "UU", "UU", "UG", "GC", "CU"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Mitochondrion", "Microvesicle", "Circulating", "Nucleus"], "doc_token": ["UG", "GA", "AG", "GC", "CG", "GC", "CC", "CU", "UC", "CG", "GA", "AC", "CG", "GA", "AC", "CA", "AG", "GA", "AG", "GC", "CC", "CG"]}
+{"doc_label": ["Exosome", "Circulating"], "doc_token": ["GA", "AG", "GU", "UG", "GC", "CC", "CU", "UU", "UC", "CU", "UU", "UU", "UU", "UG", "GG", "GA", "AG", "GC", "CG", "GU", "UU"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Mitochondrion", "Nucleus"], "doc_token": ["CA", "AU", "UC", "CC", "CC", "CU", "UU", "UG", "GC", "CA", "AU", "UG", "GG", "GU", "UG", "GG", "GA", "AG", "GG", "GG"]}
+{"doc_label": ["Microvesicle"], "doc_token": ["GG", "GG", "GU", "UC", "CC", "CC", "CG", "GG", "GG", "GG", "GA", "AG", "GG", "GG", "GG", "GG", "GG"]}
+{"doc_label": ["Exosome"], "doc_token": ["GG", "GC", "CU", "UA", "AG", "GC", "CA", "AA", "AC", "CA", "AG", "GC", "CG", "GC", "CU", "UU", "UA", "AC", "CC", "CU"]}
+{"doc_label": ["Exosome", "Circulating"], "doc_token": ["GU", "UG", "GG", "GU", "UU", "UA", "AU", "UC", "CC", "CC", "CU", "UG", "GU", "UC", "CC", "CU", "UG", "GU", "UU", "UC", "CG"]}
+{"doc_label": ["Exosome"], "doc_token": ["CU", "UU", "UC", "CU", "UU", "UG", "GU", "UG", "GC", "CU", "UC", "CU", "UA", "AG", "GG", "GA", "AU", "UU", "UG", "GU"]}
+{"doc_label": ["Exosome", "Circulating"], "doc_token": ["AU", "UG", "GA", "AU", "UC", "CC", "CA", "AG", "GG", "GA", "AA", "AC", "CC", "CU", "UG", "GC", "CC", "CU", "UC", "CU"]}
+{"doc_label": ["Exosome", "Mitochondrion", "Microvesicle"], "doc_token": ["UG", "GG", "GU", "UG", "GG", "GG", "GC", "CC", "CG", "GC", "CA", "AG", "GA", "AA", "AC", "CA", "AU", "UG", "GU", "UG", "GC"]}
+{"doc_label": ["Exosome", "Mitochondrion", "Microvesicle", "Circulating"], "doc_token": ["AC", "CA", "AG", "GC", "CA", "AG", "GG", "GC", "CA", "AC", "CA", "AG", "GA", "AC", "CA", "AG", "GG", "GC", "CA", "AG", "GU"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Mitochondrion", "Microvesicle", "Circulating", "Nucleus"], "doc_token": ["AA", "AA", "AA", "AG", "GC", "CU", "UG", "GG", "GG", "GU", "UU", "UG", "GA", "AG", "GA", "AG", "GG", "GG", "GU"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Mitochondrion", "Circulating", "Nucleus"], "doc_token": ["GC", "CA", "AA", "AA", "AG", "GC", "CA", "AC", "CA", "AC", "CG", "GG", "GC", "CC", "CU", "UG", "GC", "CA", "AG", "GA", "AG", "GA"]}
+{"doc_label": ["Exosome"], "doc_token": ["CU", "UC", "CA", "AU", "UC", "CU", "UG", "GC", "CA", "AA", "AA", "AG", "GA", "AA", "AG", "GU", "UA", "AA", "AG", "GU", "UG"]}
+{"doc_label": ["Microvesicle", "Circulating"], "doc_token": ["GG", "GU", "UG", "GG", "GC", "CC", "CC", "CG", "GG", "GC", "CC", "CG", "GU", "UG", "GC", "CC", "CU", "UG", "GA", "AG", "GG"]}
+{"doc_label": ["Exosome"], "doc_token": ["UC", "CU", "UC", "CA", "AG", "GG", "GA", "AG", "GU", "UA", "AA", "AA", "AG", "GA", "AC", "CA", "AG", "GA", "AG", "GU", "UU"]}
+{"doc_label": ["Exosome"], "doc_token": ["UU", "UG", "GA", "AG", "GG", "GA", "AA", "AA", "AA", "AG", "GA", "AU", "UG", "GG", "GU", "UC", "CU", "UU", "UA", "AU", "UU"]}
+{"doc_label": ["Exosome"], "doc_token": ["AG", "GG", "GG", "GG", "GG", "GA", "AA", "AA", "AG", "GU", "UU", "UC", "CU", "UA", "AU", "UA", "AG", "GU", "UC", "CC"]}
+{"doc_label": ["Circulating"], "doc_token": ["UG", "GC", "CA", "AA", "AA", "AA", "AG", "GU", "UA", "AA", "AU", "UU", "UG", "GC", "CA", "AG", "GU", "UU", "UU", "UU", "UU", "UG"]}
+{"doc_label": ["Exosome"], "doc_token": ["UG", "GA", "AC", "CA", "AA", "AC", "CU", "UA", "AU", "UG", "GG", "GA", "AU", "UG", "GA", "AG", "GC", "CU", "UC", "CU"]}
+{"doc_label": ["Exosome"], "doc_token": ["AC", "CU", "UU", "UU", "UA", "AA", "AC", "CA", "AU", "UG", "GG", "GA", "AA", "AG", "GU", "UG", "GC", "CU", "UU", "UU", "UC"]}
+{"doc_label": ["Exosome", "Circulating"], "doc_token": ["AG", "GG", "GU", "UU", "UG", "GU", "UC", "CC", "CG", "GU", "UG", "GG", "GU", "UG", "GA", "AG", "GU", "UU", "UC", "CG", "GC", "CA"]}
+{"doc_label": ["Exosome"], "doc_token": ["CA", "AA", "AG", "GU", "UC", "CU", "UU", "UA", "AU", "UU", "UU", "UG", "GA", "AG", "GC", "CA", "AC", "CC", "CU", "UG", "GU", "UU"]}
+{"doc_label": ["Exosome", "Mitochondrion", "Microvesicle", "Circulating"], "doc_token": ["AU", "UC", "CA", "AU", "UA", "AG", "GA", "AG", "GG", "GA", "AA", "AA", "AA", "AU", "UC", "CC", "CA", "AC", "CG", "GU"]}
+{"doc_label": ["Exosome"], "doc_token": ["AG", "GG", "GG", "GU", "UG", "GU", "UU", "UU", "UC", "CU", "UC", "CU", "UC", "CA", "AU", "UC", "CU", "UC", "CU"]}
+{"doc_label": ["Exosome", "Circulating"], "doc_token": ["AU", "UC", "CG", "GU", "UG", "GC", "CA", "AU", "UC", "CC", "CC", "CU", "UU", "UU", "UA", "AG", "GA", "AG", "GU", "UG", "GU"]}
+{"doc_label": ["Circulating"], "doc_token": ["CA", "AA", "AA", "AA", "AG", "GU", "UG", "GA", "AU", "UC", "CG", "GU", "UG", "GG", "GU", "UU", "UU", "UU", "UU", "UG"]}
+{"doc_label": ["Exosome"], "doc_token": ["UU", "UG", "GU", "UG", "GA", "AA", "AG", "GA", "AA", "AA", "AG", "GA", "AA", "AA", "AU", "UU", "UC", "CU", "UU", "UA"]}
+{"doc_label": ["Exosome", "Mitochondrion", "Circulating"], "doc_token": ["CU", "UA", "AU", "UA", "AC", "CG", "GA", "AC", "CC", "CU", "UG", "GC", "CU", "UG", "GC", "CC", "CU", "UU", "UU", "UC", "CU"]}
+{"doc_label": ["Nucleus"], "doc_token": ["CC", "CC", "CU", "UU", "UG", "GG", "GG", "GU", "UC", "CU", "UG", "GA", "AU", "UG", "GG", "GG", "GG", "GU", "UA", "AG"]}
+{"doc_label": ["Mitochondrion"], "doc_token": ["AG", "GC", "CC", "CG", "GC", "CG", "GG", "GG", "GG", "GA", "AU", "UC", "CG", "GC", "CC", "CG", "GA", "AG", "GG", "GG"]}
+{"doc_label": ["Exosome", "Nucleus"], "doc_token": ["AU", "UU", "UG", "GG", "GG", "GG", "GA", "AC", "CA", "AU", "UU", "UU", "UU", "UG", "GC", "CA", "AU", "UU", "UC", "CA", "AU"]}
+{"doc_label": ["Exosome", "Circulating"], "doc_token": ["AU", "UC", "CA", "AC", "CA", "AC", "CA", "AA", "AA", "AG", "GG", "GC", "CA", "AA", "AC", "CU", "UU", "UU", "UU", "UG", "GU"]}
+{"doc_label": ["Exosome"], "doc_token": ["AA", "AU", "UU", "UG", "GC", "CA", "AC", "CU", "UU", "UU", "UA", "AG", "GC", "CA", "AA", "AU", "UG", "GG", "GU", "UG", "GA"]}
+{"doc_label": ["Exosome"], "doc_token": ["AU", "UU", "UC", "CU", "UG", "GC", "CA", "AU", "UU", "UU", "UU", "UU", "UA", "AG", "GC", "CA", "AA", "AG", "GU", "UU", "UC"]}
+{"doc_label": ["Exosome", "Mitochondrion", "Circulating"], "doc_token": ["CC", "CA", "AC", "CC", "CG", "GG", "GG", "GG", "GG", "GA", "AU", "UG", "GA", "AA", "AU", "UG", "GU", "UC", "CA", "AC"]}
+{"doc_label": ["Exosome", "Circulating"], "doc_token": ["AA", "AU", "UC", "CA", "AU", "UA", "AC", "CA", "AC", "CG", "GG", "GU", "UU", "UG", "GA", "AC", "CC", "CU", "UA", "AU", "UU"]}
+{"doc_label": ["Mitochondrion", "Nucleus"], "doc_token": ["GA", "AU", "UG", "GA", "AU", "UG", "GA", "AU", "UG", "GG", "GC", "CA", "AG", "GC", "CA", "AA", "AA", "AU", "UU", "UC", "CU", "UG", "GA", "AA", "AA"]}
+{"doc_label": ["Exosome", "Mitochondrion", "Microvesicle", "Circulating"], "doc_token": ["AG", "GU", "UU", "UC", "CU", "UU", "UC", "CA", "AG", "GU", "UG", "GG", "GC", "CA", "AA", "AG", "GC", "CU", "UU", "UU", "UA"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Mitochondrion", "Microvesicle", "Circulating", "Nucleus"], "doc_token": ["UA", "AA", "AU", "UA", "AC", "CU", "UG", "GC", "CC", "CG", "GG", "GG", "GU", "UA", "AA", "AU", "UG", "GA", "AU", "UG", "GG", "GA"]}
+{"doc_label": ["Exosome", "Mitochondrion", "Circulating"], "doc_token": ["AA", "AC", "CC", "CA", "AU", "UC", "CG", "GA", "AC", "CC", "CG", "GU", "UU", "UG", "GA", "AG", "GU", "UG", "GG", "GA", "AC"]}
+{"doc_label": ["Exosome"], "doc_token": ["AU", "UC", "CC", "CC", "CU", "UU", "UG", "GC", "CA", "AG", "GG", "GG", "GG", "GC", "CU", "UG", "GU", "UU", "UG", "GG", "GG", "GU"]}
+{"doc_label": ["Exosome", "Circulating"], "doc_token": ["AA", "AA", "AG", "GU", "UG", "GC", "CU", "UG", "GC", "CG", "GA", "AC", "CA", "AU", "UU", "UU", "UG", "GA", "AG", "GC", "CG", "GU"]}
+{"doc_label": ["Microvesicle"], "doc_token": ["CG", "GG", "GG", "GG", "GU", "UC", "CG", "GG", "GC", "CG", "GG", "GC", "CG", "GA", "AC", "CG", "GU", "UG"]}
+{"doc_label": ["Nucleus"], "doc_token": ["GA", "AC", "CC", "CU", "UG", "GG", "GA", "AC", "CA", "AU", "UG", "GU", "UU", "UU", "UG", "GU", "UG", "GC", "CC", "CC", "CA", "AG", "GU"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Mitochondrion", "Microvesicle", "Circulating", "Nucleus"], "doc_token": ["UU", "UU", "UG", "GU", "UU", "UC", "CG", "GU", "UU", "UC", "CG", "GG", "GC", "CU", "UC", "CG", "GC", "CG", "GU", "UG", "GA"]}
+{"doc_label": ["Exosome", "Mitochondrion", "Microvesicle"], "doc_token": ["GU", "UG", "GA", "AG", "GG", "GA", "AC", "CU", "UC", "CG", "GG", "GG", "GA", "AG", "GG", "GU", "UG", "GG"]}
+{"doc_label": ["Exosome", "Nucleus"], "doc_token": ["GC", "CU", "UA", "AU", "UU", "UU", "UC", "CA", "AC", "CG", "GA", "AC", "CA", "AC", "CC", "CA", "AG", "GG", "GG", "GU", "UU"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Circulating", "Nucleus"], "doc_token": ["UA", "AG", "GU", "UG", "GC", "CA", "AA", "AU", "UA", "AU", "UU", "UG", "GC", "CU", "UU", "UA", "AU", "UA", "AG", "GG", "GG", "GU"]}
+{"doc_label": ["Exosome", "Nucleus"], "doc_token": ["CA", "AA", "AA", "AA", "AG", "GC", "CA", "AA", "AU", "UC", "CG", "GC", "CG", "GG", "GU", "UU", "UU", "UU", "UU", "UG", "GC"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Mitochondrion", "Microvesicle", "Circulating", "Nucleus"], "doc_token": ["AA", "AA", "AA", "AG", "GC", "CU", "UG", "GG", "GG", "GU", "UU", "UG", "GA", "AG", "GA", "AG", "GG", "GG", "GC", "CG", "GA"]}
+{"doc_label": ["Exosome"], "doc_token": ["CU", "UA", "AG", "GC", "CA", "AC", "CA", "AC", "CA", "AG", "GA", "AU", "UA", "AC", "CG", "GC", "CC", "CC", "CA", "AG", "GA"]}
+{"doc_label": ["Exosome", "Cytoplasm", "Circulating", "Nucleus"], "doc_token": ["UU", "UG", "GC", "CA", "AU", "UA", "AU", "UG", "GU", "UA", "AG", "GG", "GA", "AU", "UG", "GU", "UC", "CC", "CC", "CA", "AU"]}
+{"doc_label": ["Exosome"], "doc_token": ["GA", "AU", "UU", "UU", "UC", "CA", "AG", "GU", "UG", "GG", "GA", "AG", "GU", "UG", "GA", "AA", "AG", "GU", "UU", "UC"]}
+{"doc_label": ["Exosome"], "doc_token": ["CU", "UC", "CC", "CU", "UG", "GA", "AG", "GC", "CC", "CA", "AU", "UU", "UC", "CU", "UG", "GA", "AG", "GC", "CC", "CU", "UC"]}
+{"doc_label": ["Exosome"], "doc_token": ["GU", "UG", "GU", "UG", "GU", "UG", "GG", "GA", "AA", "AA", "AU", "UG", "GC", "CU", "UU", "UC", "CU", "UG", "GC"]}
+{"doc_label": ["Exosome", "Microvesicle", "Circulating"], "doc_token": ["UG", "GU", "UA", "AG", "GU", "UG", "GU", "UU", "UU", "UC", "CC", "CU", "UA", "AC", "CU", "UU", "UU", "UA", "AU", "UG", "GG", "GA"]}
+{"doc_label": ["Exosome"], "doc_token": ["CU", "UC", "CU", "UA", "AG", "GA", "AG", "GG", "GG", "GA", "AA", "AG", "GC", "CG", "GC", "CU", "UU", "UU", "UC", "CU", "UG"]}
+{"doc_label": ["Exosome", "Circulating"], "doc_token": ["AU", "UC", "CC", "CC", "CA", "AC", "CC", "CA", "AC", "CU", "UG", "GC", "CC", "CA", "AC", "CC", "CA", "AU"]}
+{"doc_label": ["Microvesicle"], "doc_token": ["GG", "GG", "GG", "GC", "CG", "GC", "CG", "GG", "GC", "CC", "CG", "GG", "GA", "AU", "UC", "CG"]}
